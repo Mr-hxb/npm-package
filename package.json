@@ -1,0 +1,22 @@
+{
+  "name": "npm-test-publish-hxb",
+  "version": "0.0.1",
+  "description": "first test package",
+  "main": "npm-test-publish-hxb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-hxb/npm-package.git"
+  },
+  "keywords": [
+    "960922hu"
+  ],
+  "author": "hxb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-hxb/npm-package/issues"
+  },
+  "homepage": "https://github.com/Mr-hxb/npm-package#readme"
+}
