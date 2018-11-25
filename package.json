@@ -1,6 +1,6 @@
 {
   "name": "npm-test-publish-hxb",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "first test package",
   "main": "npm-test-publish-hxb.js",
   "scripts": {
